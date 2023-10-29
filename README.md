@@ -15,7 +15,7 @@ Deepfakes are everywhere now, and like us you're probably wondering ["wow how am
 | 10/15/2023 | **Fall Break**                                  |                    |
 | 10/22/2023 | Model Architecture + Training                   |                    |
 | 10/29/2023 | Model Development!                              |                    |
-| 11/5/2023  | Model Development + Presentation Prep!          |                    |
+| 11/5/2023  | Model Development + CNN Visualization!          |                    |
 | 11/12/2023 | Presentation Prep                               |                    |
 | 11/19/2023 | **Project Expo 🎉**                             |                    |
 
