@@ -53,5 +53,6 @@ Here is an example of how to upload and run code on Google Colab:
 - **Neural Network Introduction** - [https://cs231n.github.io/neural-networks-1/](https://cs231n.github.io/neural-networks-1/)
 - **All About Convolutional Neural Networks** - [https://cs231n.github.io/convolutional-networks/](https://cs231n.github.io/convolutional-networks/)
 - **Example CNN** - https://www.kaggle.com/code/akassshhhh/challenging-fake-image-detection
+- **RvF - CNN Crash Course (UMich Only)** - https://docs.google.com/presentation/d/1R6YwVkn8a_pYOykxGSW1JDuewv_IK8L86jrh2-XL0Cc/edit?usp=sharing
 
 **Fun fact!** One of the instructors who helped contribute to the latter two resources used to teach at U-M (they taught EECS 442 + some upper level special topics classes)!
